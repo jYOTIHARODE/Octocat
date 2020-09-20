@@ -1,0 +1,22 @@
+
+Q1 what git clone does?
+Ans->
+suppose I wanna work on a project with my friend So we are creating commits 
+on itself.
+And if my friend has created project .Then I need to copy the project on  
+remote back to on the local computer and starting coding from that point onwards.
+In git we can do the same process by doing a git clone.
+
+A clone basically does three things...........
+1) Git init-> it means we initialize a repository empty repository on the computer.
+2) Add the URL to other github repository.
+3) Performs the git pull.
+
+To clone a project:-
+
+*Firstly,go to the project you want to clone.
+*Suppose a project we want to clone is git1.
+*To clone git1,go to green button we see URL then we copy this URL and open fork.
+*When we open fork we can cllone a repo to going into file then select clone.
+Then there  we copied URL then type name then click "CLONE".
+then we done cloning the project.

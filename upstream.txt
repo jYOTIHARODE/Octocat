@@ -1,0 +1,8 @@
+Q3 What the 'Upstream' remote is usually used for?
+Ans->
+Any changes done in the remote branch is automatically seen to the fork .
+So we get the latest change done by the developer .
+So we will see our fork will be origin and 
+our remote repository will be upstream.
+So what is the difference between origin and upstream here.So origin basically
+remote repository from where we have clone our repository.

@@ -1,0 +1,8 @@
+Q3 Explain what a branch is?
+Ans->In the terms of project, branches are nothing more than a folder which contains
+specific setup project.
+Just consider we have a branch and we are doing multiple commits to it.
+but if commits done by a single person it works well but if same feature commited 
+by different persons , this would create issue and hard to manage 
+Because someone would be working on the feature the other developer might push
+something in branch now you have to be updated.
